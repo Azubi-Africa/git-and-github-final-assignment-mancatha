@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  eda-nyc-ticket-viloation            |  performimg eda            |   https://github.com/mancatha/eda-nyc-ticket-violation.git    |
+| 2 |  shift mnist              |  shifting images in mnist             | https://github.com/mancatha/shift-mnist.git      |
+| 3 |  pandas             |  using pandas to calculate profit and revenue            | https://github.com/mancatha/pandas.git     |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
